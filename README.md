@@ -1,2 +1,3 @@
 # COMPUTER-NETWORK
-Computer Network Lab 1 and 2 Asssignment
+Computer Network Lab 5 Experment
+
